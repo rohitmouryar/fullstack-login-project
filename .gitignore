@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# npm cache
+.npm-cache/
+.npm/
+
+# OS files
+.DS_Store
+
+# Data
+backend/data/users.json
